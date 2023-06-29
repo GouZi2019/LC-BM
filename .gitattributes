@@ -1,1 +1,5 @@
 Code/BM-part.exe filter=lfs diff=lfs merge=lfs -text
+Results/phi_es_field.mha filter=lfs diff=lfs merge=lfs -text
+Results/phi_rm_field.mha filter=lfs diff=lfs merge=lfs -text
+Results/phi_ts_field.mha filter=lfs diff=lfs merge=lfs -text
+Results/pre_image_prep.mha filter=lfs diff=lfs merge=lfs -text
